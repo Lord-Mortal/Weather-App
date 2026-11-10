@@ -48,7 +48,7 @@ pip install pytz
 
 Tkinter usually comes bundled with Python.
 
-If you are using Arch Linux, install it with:
+If you are using Arch Linux ( I USE ARCH BTW ) , install it with:
 
 ```bash
 sudo pacman -S tk
@@ -70,6 +70,8 @@ app_id = "YOUR_API_KEY"
 
 **Note:** Newly generated API keys may take some time to become active.
 
+For the Purpose of Demonstration , I have added my own API key.. Feel free to check it out.. ( Until i deactivate the key lol )
+
 ## ✔ Running the Application
 
 Clone the repository:
@@ -90,7 +92,7 @@ Run the application:
 python app.py
 ```
 
-Make sure all the required image files are present in the same directory as `app.py`.
+❗❗❗ Make sure all the required image files are present in the same directory as `app.py`.
 
 ## 📁 Project Structure
 
@@ -109,13 +111,6 @@ Weather-App/
 
 - An active internet connection is required.
 - A valid OpenWeatherMap API key is required.
-- Keep your API key private. Avoid uploading it directly to a public GitHub repository.
 - City search and timezone detection depend on external services.
-
-## 👨‍💻 About
-
-Weather-App started as a Python project to explore GUI development, API integration, and working with external libraries.
-
-It combines a simple interface with real-time weather data to create a lightweight desktop application.
 
 **Built with Python 🐍**
