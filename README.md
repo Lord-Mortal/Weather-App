@@ -6,7 +6,7 @@ Weather-App allows you to search for a city and view its current weather conditi
 
 It uses the OpenWeatherMap API to retrieve weather information and geolocation libraries to determine the local time of the searched city.
 
-##  Features
+## ⚙️ Features
 
 - **City Search:** Search for weather information by entering a city name.
 - **Temperature:** Displays the current temperature in Celsius.
