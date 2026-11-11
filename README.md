@@ -77,7 +77,7 @@ For the Purpose of Demonstration , I have added my own API key.. Feel free to ch
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Weather-App.git
+git clone https://github.com/Lord-Mortal/Weather-App.git
 ```
 
 Navigate into the project directory:
