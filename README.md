@@ -92,7 +92,7 @@ Run the application:
 python app.py
 ```
 
-❗❗❗ Make sure all the required image files are present in the same directory as `app.py`.
+❗❗❗ Make sure all the required image files are present in the same directory as `app.py`. The images are in the UI folder.
 
 ## 📁 Project Structure
 
